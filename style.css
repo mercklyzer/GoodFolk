@@ -108,7 +108,7 @@ html{
 
 /* good folk */
 .goodfolk-container{
-    background: white url('images/goodfolk-orange.jpg') center no-repeat;
+    background: white url('Images/goodfolk-orange.jpg') center no-repeat;
     background-size: contain;
     width: calc(100vw - 8rem);
     height: calc(100vh - 8rem);
